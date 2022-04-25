@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://duedot43.github.io/RandomComics/gar_comics/6288.gif" alt="There is supposed to be a comic here">
+<iframe src="https://duedot43.github.io/RandomComics/gar_comics/6288.gif" alt="There is supposed to be a comic here"></iframe>
 <!--
 **Duedot43/Duedot43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
