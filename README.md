@@ -1,5 +1,6 @@
 ### Hi there 👋
-<embed src="https://duedot43.github.io/RandomComics/">
+I'm currently working on VirtualPass a product im working on for my school.<br>
+I know Python and PHP and a small ammount of HTML
 <!--
 **Duedot43/Duedot43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
