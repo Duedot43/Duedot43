@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/4dff51bd-d20f-4410-98ff-e9071206144d.svg)](https://wakatime.com/@4dff51bd-d20f-4410-98ff-e9071206144d)<br>
 I'm currently working on VirtualPass a product im working on for my school.<br>
 I know Python and PHP and a small ammount of HTML
 <!--
